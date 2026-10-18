@@ -30,7 +30,7 @@ Eso es **VEGAI**: un asistente de IA que se abre en un segundo, te llama por tu 
   <tr>
     <td align="center" width="33%">
       <h3>🧠 Varios cerebros en uno</h3>
-      Más de 10 modelos punteros orquestados por un enrutador propio que pondera calidad y velocidad en cada pregunta.
+      <b>26 modelos</b> (13 listos sin cuenta) orquestados por un enrutador propio que pondera calidad y velocidad en cada pregunta.
     </td>
     <td align="center" width="33%">
       <h3>🔒 Privada por diseño</h3>
@@ -66,7 +66,7 @@ Eso es **VEGAI**: un asistente de IA que se abre en un segundo, te llama por tu 
 |---|---|---|
 | Cuenta para empezar | Normalmente obligatoria | **Ninguna: escribe tu nombre y listo** |
 | Dónde viven tus chats | En los servidores del proveedor | **Solo en tu dispositivo, cifrados** |
-| Modelos | Uno, el de la empresa | **Más de 10, con cambio automático** |
+| Modelos | Uno, el de la empresa | **26, con cambio automático** |
 | Mensajes en el plan gratuito | Suelen estar limitados | **Ilimitados en cada conversación** |
 | Si el servicio se satura | Esperas o pagas | **Otro modelo responde al instante** |
 | Precio | Suscripción mensual | **Gratis** |
@@ -78,7 +78,7 @@ Cada pregunta pasa por un **motor de enrutado propio** que puntúa los modelos p
 - **Cifrado AES-256-GCM** de conversaciones, archivos y claves, con la llave guardada en el **Android Keystore** o en **Windows DPAPI**.
 - **Sin cuentas, sin servidores propios, sin analítica.** Tus conversaciones no se venden ni se comparten con anunciantes.
 - **Chat temporal** 👻 que no deja rastro, **bloqueo con huella o cara** y **bloqueo de capturas de pantalla**.
-- **Limpieza automática**: las fotos y documentos adjuntos se borran solos a los 7 días; tú decides cuántas conversaciones conservar.
+- **Limpieza automática**: las fotos y documentos adjuntos se borran solos a los 7 días; se conservan tus **20 conversaciones más recientes** y, al empezar una nueva con la cola llena, la más antigua se borra sola (con aviso previo).
 - Modelos principales alojados en **OVHcloud, en la Unión Europea**.
 
 ### 📄 Entiende tus archivos de verdad
