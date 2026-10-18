@@ -9,7 +9,7 @@
 <h3 align="center">Una sola app. Los mejores modelos de IA. Tus datos, solo en tu dispositivo.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/versi%C3%B3n-1.0.3-5b3fd9?style=for-the-badge" alt="Versión 1.0.0">
+  <img src="https://img.shields.io/badge/versi%C3%B3n-1.0.4-5b3fd9?style=for-the-badge" alt="Versión 1.0.0">
   <img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?style=for-the-badge&logo=android&logoColor=white" alt="Android 7.0+">
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10/11">
 </p>
@@ -48,9 +48,13 @@ Eso es **VEGAI**: un asistente de IA que se abre en un segundo, te llama por tu 
 
 ## 📱 Así se ve
 
-| Pregúntame algo | Lee tus documentos | Modo oscuro | Tus datos, bajo control |
-|---|---|---|---|
-| <img src="assets/01-inicio.png" width="200"> | <img src="assets/02-documentos.png" width="200"> | <img src="assets/03-oscuro.png" width="200"> | <img src="assets/04-privacidad.png" width="200"> |
+| Pregúntame algo | El tiempo, al minuto | Las noticias de hoy |
+|---|---|---|
+| <img src="assets/01-inicio.png" width="240"> | <img src="assets/02-tiempo.png" width="240"> | <img src="assets/03-noticias.png" width="240"> |
+
+| Lee tus documentos | Modo oscuro | Tus datos, bajo control |
+|---|---|---|
+| <img src="assets/04-documentos.png" width="240"> | <img src="assets/05-oscuro.png" width="240"> | <img src="assets/06-privacidad.png" width="240"> |
 
 ## 💡 Para qué la vas a usar
 
