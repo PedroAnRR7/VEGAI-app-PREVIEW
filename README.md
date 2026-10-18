@@ -9,7 +9,7 @@
 <h3 align="center">Una sola app. Los mejores modelos de IA. Tus datos, solo en tu dispositivo.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/versi%C3%B3n-1.0.2-5b3fd9?style=for-the-badge" alt="Versión 1.0.0">
+  <img src="https://img.shields.io/badge/versi%C3%B3n-1.0.3-5b3fd9?style=for-the-badge" alt="Versión 1.0.0">
   <img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?style=for-the-badge&logo=android&logoColor=white" alt="Android 7.0+">
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10/11">
 </p>
@@ -95,6 +95,9 @@ Dentro de una conversación puedes escribir **todos los mensajes que quieras**: 
 **Memoria a largo plazo por conversación.** Cuando un chat se vuelve muy largo, VEGAI condensa por su cuenta lo más antiguo (datos que le diste, decisiones, cifras, nombres y conclusiones) en una memoria cifrada que acompaña a esa conversación. Así recuerda desde el primer mensaje, sin importar cuánto hayáis hablado. Cada conversación tiene su propia memoria: lo que cuentas en una no se mezcla con las demás, y se borra en cuanto borras el chat.
 
 Además, VEGAI te llama por tu nombre y **titula y resume automáticamente cada chat**, para que encuentres cualquier tema en el historial de un vistazo.
+
+### 📶 Funciona aunque se vaya la cobertura
+Sin conexión, VEGAI te lo indica y **guarda lo que escribas como pendiente**, cifrado en el dispositivo, para enviarlo solo en cuanto vuelva internet. Y mientras responde, puedes **dejar hasta 2 mensajes en cola** o **cortar la respuesta** con un toque.
 
 ### 🎨 Diseñada para gustar
 Interfaz de **cristal esmerilado (glassmorphism)**, modo claro y oscuro, cinco colores de acento, **transiciones fluidas** entre pantallas y un diseño que se adapta igual de bien a un móvil, una tableta o un monitor de escritorio. En móviles modestos activa sola un modo ligero.
