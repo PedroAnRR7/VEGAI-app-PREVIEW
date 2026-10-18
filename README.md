@@ -9,7 +9,7 @@
 <h3 align="center">Una sola app. Los mejores modelos de IA. Tus datos, solo en tu dispositivo.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/versi%C3%B3n-1.0.1-5b3fd9?style=for-the-badge" alt="Versión 1.0.0">
+  <img src="https://img.shields.io/badge/versi%C3%B3n-1.0.2-5b3fd9?style=for-the-badge" alt="Versión 1.0.0">
   <img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?style=for-the-badge&logo=android&logoColor=white" alt="Android 7.0+">
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10/11">
 </p>
@@ -58,6 +58,8 @@ Eso es **VEGAI**: un asistente de IA que se abre en un segundo, te llama por tu 
 - **«Revisa este correo antes de enviarlo»**: tono, faltas y claridad, con la versión corregida lista para copiar.
 - **«Tradúcelo al inglés»**: textos, mensajes o documentos completos, en segundos.
 - **«¿Qué pone en esta foto?»**: un ticket, una pizarra, una etiqueta o una captura de pantalla.
+- **«¿Qué tiempo hará mañana en Sevilla?»**: previsión real, hora a hora y por días.
+- **«Cuéntame las noticias de hoy»**: un resumen tipo telediario de los grandes medios, agrupado por temas y con el enlace a cada noticia.
 - **Resolver dudas al momento**: de cocina a programación, de matemáticas a trámites. Con atajos de consulta rápida en la pantalla de inicio.
 
 ## ✨ Lo que la hace diferente
@@ -80,6 +82,9 @@ Cada pregunta pasa por un **motor de enrutado propio** que puntúa los modelos p
 - **Chat temporal** 👻 que no deja rastro, **bloqueo con huella o cara** y **bloqueo de capturas de pantalla**.
 - **Limpieza automática**: las fotos y documentos adjuntos se borran solos a los 7 días; se conservan tus **20 conversaciones más recientes** y, al empezar una nueva con la cola llena, la más antigua se borra sola (con aviso previo).
 - Modelos principales alojados en **OVHcloud, en la Unión Europea**.
+
+### 🌦️ El tiempo y la actualidad, al minuto
+Los modelos de IA no saben qué pasa hoy, así que **VEGAI lo consulta por ellos**: cuando preguntas por el tiempo, obtiene la previsión real del **Instituto Meteorológico de Noruega (MET Norway)** para cualquier lugar del mundo; cuando preguntas por las noticias, reúne los titulares de las últimas horas de los grandes medios a través de **GDELT** y te los resume como un informativo, con el enlace a cada noticia. Sin inventarse nada: si no hay datos, te lo dice.
 
 ### 📄 Entiende tus archivos de verdad
 PDF, Word, Excel, PowerPoint, OpenDocument, CSV, JSON y código fuente. El texto se extrae **en el propio dispositivo** y la IA lo analiza junto a tu pregunta. También admite fotos, arrastrar archivos y pegar desde el portapapeles.
