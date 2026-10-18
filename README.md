@@ -43,6 +43,9 @@ Eso es **VEGAI**: un asistente de IA que se abre en un segundo, te llama por tu 
   </tr>
 </table>
 
+> **💬 Escribe todo lo que quieras.** Dentro de cada conversación **no hay límite de mensajes**: VEGAI mantiene el contexto y recuerda todo lo que habéis hablado, y la conversación queda guardada para retomarla cuando quieras, hoy o dentro de un mes.
+> El único límite es al **empezar** conversaciones nuevas: 10 por semana, y si necesitas otra, basta con ver un vídeo corto.
+
 ## 📱 Así se ve
 
 | Pregúntame algo | Lee tus documentos | Modo oscuro | Tus datos, bajo control |
@@ -64,6 +67,7 @@ Eso es **VEGAI**: un asistente de IA que se abre en un segundo, te llama por tu 
 | Cuenta para empezar | Normalmente obligatoria | **Ninguna: escribe tu nombre y listo** |
 | Dónde viven tus chats | En los servidores del proveedor | **Solo en tu dispositivo, cifrados** |
 | Modelos | Uno, el de la empresa | **Más de 10, con cambio automático** |
+| Mensajes en el plan gratuito | Suelen estar limitados | **Ilimitados en cada conversación** |
 | Si el servicio se satura | Esperas o pagas | **Otro modelo responde al instante** |
 | Precio | Suscripción mensual | **Gratis** |
 
@@ -80,8 +84,10 @@ Cada pregunta pasa por un **motor de enrutado propio** que puntúa los modelos p
 ### 📄 Entiende tus archivos de verdad
 PDF, Word, Excel, PowerPoint, OpenDocument, CSV, JSON y código fuente. El texto se extrae **en el propio dispositivo** y la IA lo analiza junto a tu pregunta. También admite fotos, arrastrar archivos y pegar desde el portapapeles.
 
-### 💬 Conversaciones que se recuerdan
-VEGAI mantiene el contexto de cada conversación, recuerda tu nombre y **titula y resume automáticamente cada chat** para que encuentres cualquier tema en el historial de un vistazo. Mensajes ilimitados dentro de cada conversación.
+### 💬 Conversaciones sin límite que lo recuerdan todo
+Dentro de una conversación puedes escribir **todos los mensajes que quieras**: VEGAI mantiene el contexto de principio a fin y recuerda cada cosa que le has contado, incluidos los documentos y fotos que hayas compartido. Cada conversación **se guarda** y la retomas justo donde la dejaste, cuando quieras.
+
+Además, VEGAI te llama por tu nombre y **titula y resume automáticamente cada chat**, para que encuentres cualquier tema en el historial de un vistazo.
 
 ### 🎨 Diseñada para gustar
 Interfaz de **cristal esmerilado (glassmorphism)**, modo claro y oscuro, cinco colores de acento, **transiciones fluidas** entre pantallas y un diseño que se adapta igual de bien a un móvil, una tableta o un monitor de escritorio. En móviles modestos activa sola un modo ligero.
@@ -108,7 +114,7 @@ La versión de escritorio se instala con un clic, se abre como **aplicación pro
 | **Android** | Google Play *(muy pronto)* · APK en [Releases](../../releases/latest) |
 | **Windows 10/11** | Instalador de un clic en [Releases](../../releases/latest) |
 
-**Gratis**, con 10 conversaciones nuevas cada semana y mensajes ilimitados en cada una. ¿Necesitas más? Basta con ver un vídeo corto.
+**Gratis.** Mensajes **ilimitados** dentro de cada conversación, con el contexto siempre guardado. Puedes empezar 10 conversaciones nuevas cada semana; ¿necesitas otra? Basta con ver un vídeo corto.
 
 ## 🙌 Créditos
 
