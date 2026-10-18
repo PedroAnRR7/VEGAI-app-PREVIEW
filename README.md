@@ -6,68 +6,121 @@
   <img src="assets/icono.png" width="44" align="center" alt=""> VEGAI
 </h1>
 
+<h3 align="center">Una sola app. Los mejores modelos de IA. Tus datos, solo en tu dispositivo.</h3>
+
 <p align="center">
-  <b>Tu asistente de IA personal: los principales modelos de inteligencia artificial, en un solo lugar.</b><br>
-  Android · Windows — de <b>ROMER Interactive</b>
+  <img src="https://img.shields.io/badge/versi%C3%B3n-1.0.0-5b3fd9?style=for-the-badge" alt="Versión 1.0.0">
+  <img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?style=for-the-badge&logo=android&logoColor=white" alt="Android 7.0+">
+  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10/11">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/versi%C3%B3n-1.0.0-5b3fd9" alt="Versión 1.0.0">
-  <img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?logo=android&logoColor=white" alt="Android 7.0+">
-  <img src="https://img.shields.io/badge/Windows-10%2F11-0078d4?logo=windows&logoColor=white" alt="Windows 10/11">
-  <img src="https://img.shields.io/badge/c%C3%B3digo-privado-555" alt="Código privado">
+  <a href="../../releases/latest"><b>⬇️ Descargar VEGAI</b></a> &nbsp;·&nbsp;
+  <a href="#-lo-que-la-hace-diferente">Qué la hace diferente</a> &nbsp;·&nbsp;
+  <a href="#-por-dentro">Cómo está hecha</a>
 </p>
 
 ---
 
-## Qué es
+Imagina tener a **Qwen, GPT-OSS, Llama y Mistral trabajando para ti en la misma conversación**, sin crear ninguna cuenta, sin pagar suscripciones y sin que tus mensajes se queden guardados en el servidor de nadie.
 
-VEGAI es un asistente de IA para el día a día: preguntas rápidas, traducir, resumir documentos o revisar un correo. Se abre directamente en el chat, sin cuentas ni registros, y por debajo combina varios modelos de IA gratuitos: si uno falla o está saturado, cambia a otro automáticamente sin que el usuario lo note.
+Eso es **VEGAI**: un asistente de IA que se abre en un segundo, te llama por tu nombre, lee tus documentos, entiende tus fotos y elige en cada momento el mejor modelo disponible. Si uno se satura o falla, **otro toma el relevo al instante**, sin que tengas que hacer nada.
 
-| Inicio | Documentos | Modo oscuro | Privacidad |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🧠 Varios cerebros en uno</h3>
+      Más de 10 modelos punteros orquestados por un enrutador propio que pondera calidad y velocidad en cada pregunta.
+    </td>
+    <td align="center" width="33%">
+      <h3>🔒 Privada por diseño</h3>
+      Sin cuentas. Conversaciones cifradas con AES-256 que <b>nunca salen de tu móvil</b> salvo hacia la IA que responde.
+    </td>
+    <td align="center" width="33%">
+      <h3>⚡ Ligera y rapidísima</h3>
+      4,5 MB en Android. Respuestas en tiempo real y modelos europeos que contestan en menos de un segundo.
+    </td>
+  </tr>
+</table>
+
+## 📱 Así se ve
+
+| Pregúntame algo | Lee tus documentos | Modo oscuro | Tus datos, bajo control |
 |---|---|---|---|
 | <img src="assets/01-inicio.png" width="200"> | <img src="assets/02-documentos.png" width="200"> | <img src="assets/03-oscuro.png" width="200"> | <img src="assets/04-privacidad.png" width="200"> |
 
-## Funciones
+## 💡 Para qué la vas a usar
 
-- **Chat al estilo de los grandes asistentes**, con sugerencias de consulta rápida y respuestas en tiempo real.
-- **Lee documentos e imágenes**: PDF, Word, Excel, PowerPoint, texto y código, con el texto extraído **en el propio dispositivo**.
-- **Conversaciones con contexto** y un resumen automático de cada una en el historial.
-- **Privacidad de verdad**: todo se guarda **solo en el dispositivo, cifrado con AES-256** (clave en Android Keystore o Windows DPAPI). Chat temporal, borrado automático de adjuntos a los 7 días y bloqueo con huella.
-- **Varios modelos, una sola app**: Qwen, GPT-OSS, Llama y Mistral, con cambio automático entre proveedores si uno falla.
-- **Diseño cuidado**: glassmorphism, claro y oscuro, transiciones fluidas y adaptado a móvil, tableta y escritorio.
-- **Gratuita**: 10 conversaciones nuevas por semana con mensajes ilimitados en cada una; si necesitas más, basta con ver un vídeo corto.
+- **«Resúmeme este PDF de 40 páginas»**: adjunta el informe, el contrato o los apuntes y obtén lo importante en segundos, en tablas si lo pides.
+- **«Revisa este correo antes de enviarlo»**: tono, faltas y claridad, con la versión corregida lista para copiar.
+- **«Tradúcelo al inglés»**: textos, mensajes o documentos completos, en segundos.
+- **«¿Qué pone en esta foto?»**: un ticket, una pizarra, una etiqueta o una captura de pantalla.
+- **Resolver dudas al momento**: de cocina a programación, de matemáticas a trámites. Con atajos de consulta rápida en la pantalla de inicio.
 
-## Descargas
+## ✨ Lo que la hace diferente
+
+| | Apps de IA habituales | **VEGAI** |
+|---|---|---|
+| Cuenta para empezar | Normalmente obligatoria | **Ninguna: escribe tu nombre y listo** |
+| Dónde viven tus chats | En los servidores del proveedor | **Solo en tu dispositivo, cifrados** |
+| Modelos | Uno, el de la empresa | **Más de 10, con cambio automático** |
+| Si el servicio se satura | Esperas o pagas | **Otro modelo responde al instante** |
+| Precio | Suscripción mensual | **Gratis** |
+
+### 🧠 Un enrutador inteligente, no un simple chat
+Cada pregunta pasa por un **motor de enrutado propio** que puntúa los modelos por inteligencia y velocidad, reparte los intentos entre proveedores y aprende de los fallos. Si un modelo alcanza su límite, solo ese modelo descansa: el resto sigue trabajando. Si algo falla a mitad de una respuesta, VEGAI la vuelve a generar con otro modelo automáticamente.
+
+### 🔒 Privacidad que se puede demostrar
+- **Cifrado AES-256-GCM** de conversaciones, archivos y claves, con la llave guardada en el **Android Keystore** o en **Windows DPAPI**.
+- **Sin cuentas, sin servidores propios, sin analítica.** Tus conversaciones no se venden ni se comparten con anunciantes.
+- **Chat temporal** 👻 que no deja rastro, **bloqueo con huella o cara** y **bloqueo de capturas de pantalla**.
+- **Limpieza automática**: las fotos y documentos adjuntos se borran solos a los 7 días; tú decides cuántas conversaciones conservar.
+- Modelos principales alojados en **OVHcloud, en la Unión Europea**.
+
+### 📄 Entiende tus archivos de verdad
+PDF, Word, Excel, PowerPoint, OpenDocument, CSV, JSON y código fuente. El texto se extrae **en el propio dispositivo** y la IA lo analiza junto a tu pregunta. También admite fotos, arrastrar archivos y pegar desde el portapapeles.
+
+### 💬 Conversaciones que se recuerdan
+VEGAI mantiene el contexto de cada conversación, recuerda tu nombre y **titula y resume automáticamente cada chat** para que encuentres cualquier tema en el historial de un vistazo. Mensajes ilimitados dentro de cada conversación.
+
+### 🎨 Diseñada para gustar
+Interfaz de **cristal esmerilado (glassmorphism)**, modo claro y oscuro, cinco colores de acento, **transiciones fluidas** entre pantallas y un diseño que se adapta igual de bien a un móvil, una tableta o un monitor de escritorio. En móviles modestos activa sola un modo ligero.
+
+### 🖥️ En Windows, además, para profesionales
+La versión de escritorio se instala con un clic, se abre como **aplicación propia (no en el navegador)** y trae un servidor integrado con una **API local compatible con OpenAI**, lista para conectar herramientas de programación, y la opción de **usar tu PC como motor de IA de tu móvil** en la red de casa.
+
+## 🛠️ Por dentro
+
+<table>
+  <tr><td><b>Interfaz</b></td><td>React 19 · TypeScript · Vite 8 · Tailwind CSS 4</td></tr>
+  <tr><td><b>Android</b></td><td>Capacitor 8 (API 36) con plugins nativos en Java: streaming HTTP, Keystore + biometría y tematizado de las barras del sistema. Compilado con R8: <b>4,5 MB</b></td></tr>
+  <tr><td><b>Windows</b></td><td>Electron 38 con motor de enrutado integrado e instalador NSIS de un clic</td></tr>
+  <tr><td><b>Seguridad</b></td><td>AES-256-GCM (WebCrypto) sobre IndexedDB · Android Keystore · Windows DPAPI · BiometricPrompt</td></tr>
+  <tr><td><b>Documentos</b></td><td>pdf.js · fflate (Office/ODF) · todo procesado en el dispositivo</td></tr>
+  <tr><td><b>IA</b></td><td>Enrutador multi-proveedor con puntuación, failover en streaming y pausas por modelo · OVHcloud AI Endpoints · Kilo Gateway · OpenRouter · Ollama Cloud</td></tr>
+  <tr><td><b>Negocio</b></td><td>Google AdMob (banner, nativo y vídeo bonificado) con consentimiento RGPD · cumple la política de contenido generado por IA de Google Play</td></tr>
+</table>
+
+## ⬇️ Descargas
 
 | Plataforma | Dónde |
 |---|---|
-| **Android** | Google Play *(próximamente)* · APK en [Releases](../../releases) |
-| **Windows 10/11** | Instalador de un clic en [Releases](../../releases) |
+| **Android** | Google Play *(muy pronto)* · APK en [Releases](../../releases/latest) |
+| **Windows 10/11** | Instalador de un clic en [Releases](../../releases/latest) |
 
-## Cómo está hecha
+**Gratis**, con 10 conversaciones nuevas cada semana y mensajes ilimitados en cada una. ¿Necesitas más? Basta con ver un vídeo corto.
 
-| Parte | Tecnología |
-|---|---|
-| Interfaz | React 19, TypeScript, Vite 8, Tailwind CSS 4 |
-| Android | Capacitor 8 (API 36) con plugins nativos en Java: streaming HTTP, Android Keystore + biometría y color de las barras del sistema. Compactado con R8: APK de 4,5 MB |
-| Windows | Electron 38 con un servidor de enrutado de modelos integrado e instalador NSIS de un clic |
-| Seguridad | Cifrado AES-256-GCM (WebCrypto) sobre IndexedDB, Android Keystore y Windows DPAPI |
-| Documentos | pdf.js y fflate (Office/ODF), procesados en el dispositivo |
-| IA | Enrutador propio con puntuación por calidad y velocidad, reintentos y pausas por modelo cuando un proveedor limita |
-| Monetización | Google AdMob (banner, nativo y bonificado) con consentimiento RGPD (UMP) |
+## 🙌 Créditos
 
-## Créditos
-
-- **Desarrollo y publicación:** ROMER Interactive.
-- **Código:** Pedro Antonio Ruiz Romero.
+- **Desarrollo y publicación:** ROMER Interactive
+- **Código:** Pedro Antonio Ruiz Romero
 - Construida sobre **[FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi)** de **Tashfeen Ahmed** (licencia MIT).
 - Los modelos de IA pertenecen a sus autores y se usan bajo sus licencias (Qwen, GPT-OSS y Mistral: Apache 2.0; Llama 3.3: Llama 3.3 Community License — *Built with Llama*).
 
 ---
 
 <p align="center">
-  <a href="https://sites.google.com/view/vegai-privacidad">Política de privacidad</a> · Contacto: <a href="mailto:romerinteractive@gmail.com">romerinteractive@gmail.com</a>
+  <a href="https://sites.google.com/view/vegai-privacidad">Política de privacidad</a> · <a href="mailto:romerinteractive@gmail.com">romerinteractive@gmail.com</a>
 </p>
 
-<p align="center"><sub>© 2026 ROMER Interactive. El código fuente de VEGAI es privado; este repositorio solo presenta la aplicación y distribuye sus instaladores.</sub></p>
+<p align="center"><sub>© 2026 ROMER Interactive. El código fuente de VEGAI es privado; este repositorio presenta la aplicación y distribuye sus instaladores.</sub></p>
